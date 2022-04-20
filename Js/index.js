@@ -3,7 +3,7 @@
 // console.log(arr);
 let a = "Salom dunyo";
 function reverse(a) {
-  a = str.split("").reverse().join("");
+  a = a.split("").reverse().join("");
   return a;
 }
 let b = reverse(a);
